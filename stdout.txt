@@ -1,5 +1,3 @@
-C:\Users\w.blacoe\AppData\Local\Programs\Python\Python36\python.exe C:/Users/w.blacoe/Desktop/python/synoptics/synoptics.py
-
 [collecting all verses in gospels]
 reading The Gospel According to Saint Matthew
 reading The Gospel According to Saint Mark
@@ -87,8 +85,8 @@ The Gospel According to Saint John contains 879 verses
 720000/726138 verses have been compared
 
 [aligning verses in The Gospel According to Saint Mark and The Gospel According to Saint Matthew]
-[writing verse alignments (The Gospel According to Saint Mark -> The Gospel According to Saint Matthew) to C:\Users\w.blacoe\Desktop\python\synoptics\output\mark_matthew.txt]
-[writing verse alignments (The Gospel According to Saint Matthew -> The Gospel According to Saint Mark) to C:\Users\w.blacoe\Desktop\python\synoptics\output\matthew_mark.txt]
+[writing verse alignments (The Gospel According to Saint Mark -> The Gospel According to Saint Matthew) to ...\output\mark_matthew.txt]
+[writing verse alignments (The Gospel According to Saint Matthew -> The Gospel According to Saint Mark) to ...\output\matthew_mark.txt]
 
 [computing similarities between verses in The Gospel According to Saint Luke and The Gospel According to Saint Matthew]
 10000/1232721 verses have been compared
@@ -216,8 +214,8 @@ The Gospel According to Saint John contains 879 verses
 1230000/1232721 verses have been compared
 
 [aligning verses in The Gospel According to Saint Luke and The Gospel According to Saint Matthew]
-[writing verse alignments (The Gospel According to Saint Luke -> The Gospel According to Saint Matthew) to C:\Users\w.blacoe\Desktop\python\synoptics\output\luke_matthew.txt]
-[writing verse alignments (The Gospel According to Saint Matthew -> The Gospel According to Saint Luke) to C:\Users\w.blacoe\Desktop\python\synoptics\output\matthew_luke.txt]
+[writing verse alignments (The Gospel According to Saint Luke -> The Gospel According to Saint Matthew) to ...\output\luke_matthew.txt]
+[writing verse alignments (The Gospel According to Saint Matthew -> The Gospel According to Saint Luke) to ...\output\matthew_luke.txt]
 
 [computing similarities between verses in The Gospel According to Saint Luke and The Gospel According to Saint Mark]
 10000/780378 verses have been compared
@@ -300,8 +298,8 @@ The Gospel According to Saint John contains 879 verses
 780000/780378 verses have been compared
 
 [aligning verses in The Gospel According to Saint Luke and The Gospel According to Saint Mark]
-[writing verse alignments (The Gospel According to Saint Luke -> The Gospel According to Saint Mark) to C:\Users\w.blacoe\Desktop\python\synoptics\output\luke_mark.txt]
-[writing verse alignments (The Gospel According to Saint Mark -> The Gospel According to Saint Luke) to C:\Users\w.blacoe\Desktop\python\synoptics\output\mark_luke.txt]
+[writing verse alignments (The Gospel According to Saint Luke -> The Gospel According to Saint Mark) to ...\output\luke_mark.txt]
+[writing verse alignments (The Gospel According to Saint Mark -> The Gospel According to Saint Luke) to ...\output\mark_luke.txt]
 
 [computing similarities between verses in The Gospel According to Saint John and The Gospel According to Saint Matthew]
 10000/941409 verses have been compared
@@ -400,8 +398,8 @@ The Gospel According to Saint John contains 879 verses
 940000/941409 verses have been compared
 
 [aligning verses in The Gospel According to Saint John and The Gospel According to Saint Matthew]
-[writing verse alignments (The Gospel According to Saint John -> The Gospel According to Saint Matthew) to C:\Users\w.blacoe\Desktop\python\synoptics\output\john_matthew.txt]
-[writing verse alignments (The Gospel According to Saint Matthew -> The Gospel According to Saint John) to C:\Users\w.blacoe\Desktop\python\synoptics\output\matthew_john.txt]
+[writing verse alignments (The Gospel According to Saint John -> The Gospel According to Saint Matthew) to ...\output\john_matthew.txt]
+[writing verse alignments (The Gospel According to Saint Matthew -> The Gospel According to Saint John) to ...\output\matthew_john.txt]
 
 [computing similarities between verses in The Gospel According to Saint John and The Gospel According to Saint Mark]
 10000/595962 verses have been compared
@@ -465,8 +463,8 @@ The Gospel According to Saint John contains 879 verses
 590000/595962 verses have been compared
 
 [aligning verses in The Gospel According to Saint John and The Gospel According to Saint Mark]
-[writing verse alignments (The Gospel According to Saint John -> The Gospel According to Saint Mark) to C:\Users\w.blacoe\Desktop\python\synoptics\output\john_mark.txt]
-[writing verse alignments (The Gospel According to Saint Mark -> The Gospel According to Saint John) to C:\Users\w.blacoe\Desktop\python\synoptics\output\mark_john.txt]
+[writing verse alignments (The Gospel According to Saint John -> The Gospel According to Saint Mark) to ...\output\john_mark.txt]
+[writing verse alignments (The Gospel According to Saint Mark -> The Gospel According to Saint John) to ...\output\mark_john.txt]
 
 [computing similarities between verses in The Gospel According to Saint John and The Gospel According to Saint Luke]
 10000/1011729 verses have been compared
@@ -572,7 +570,7 @@ The Gospel According to Saint John contains 879 verses
 1010000/1011729 verses have been compared
 
 [aligning verses in The Gospel According to Saint John and The Gospel According to Saint Luke]
-[writing verse alignments (The Gospel According to Saint John -> The Gospel According to Saint Luke) to C:\Users\w.blacoe\Desktop\python\synoptics\output\john_luke.txt]
-[writing verse alignments (The Gospel According to Saint Luke -> The Gospel According to Saint John) to C:\Users\w.blacoe\Desktop\python\synoptics\output\luke_john.txt]
+[writing verse alignments (The Gospel According to Saint John -> The Gospel According to Saint Luke) to ...\output\john_luke.txt]
+[writing verse alignments (The Gospel According to Saint Luke -> The Gospel According to Saint John) to ...\output\luke_john.txt]
 
 Process finished with exit code 0
